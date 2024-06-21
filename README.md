@@ -1,6 +1,6 @@
-👋 Hi, I’m @lemurifor
+👋 Hi, I’m @ailooo
 
 <!---
-lemurifor/lemurifor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ailooo/ailooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
